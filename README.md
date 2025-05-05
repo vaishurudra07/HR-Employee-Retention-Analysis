@@ -30,13 +30,13 @@ This HR Analytics project explores employee attrition patterns using two large d
 
 Interactive dashboards were developed to communicate findings visually.
 
-### 🔷 Excel Dashboard
-
-![HR Dashboard](Dashboard_image/Excel.png)
-
 ### 🔷 Powerbi Dashboard
 
 ![HR Dashboard](Dashboard_image/Powerbi.png)
+
+### 🔷 Excel Dashboard
+
+![HR Dashboard](Dashboard_image/Excel.png)
 
 ### 🔷 Tableau Dashboard
 
