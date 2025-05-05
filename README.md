@@ -32,16 +32,16 @@ Interactive dashboards were developed to communicate findings visually.
 
 ### 🔷 Excel Dashboard
 
-![HR Dashboard](C:\Users\rudra\OneDrive\Desktop\vaishnavi\P727-HR Analytics\HR-Employee-Retention-Analysis\Dashboard_image\Excel.png)
+![HR Dashboard](Dashboard_image/Excel.png)
 
 ### 🔷 Powerbi Dashboard
 
-![HR Dashboard](C:\Users\rudra\OneDrive\Desktop\vaishnavi\P727-HR Analytics\HR-Employee-Retention-Analysis\Dashboard_image\Powerbi.png)
+![HR Dashboard](Dashboard_image/Powerbi.png)
 
 ### 🔷 Tableau Dashboard
 
-![HR Dashboard](C:\Users\rudra\OneDrive\Desktop\vaishnavi\P727-HR Analytics\HR-Employee-Retention-Analysis\Dashboard_image\Tableau.png)
-🔗 [View Interactive Dashboard](https://shorturl.at/Dxqtf)
+![HR Dashboard](Dashboard_image/Tableau.png)
+[🔗 View Interactive Dashboard](https://shorturl.at/Dxqtf)
 
 > 💡 The dashboard showcases attrition patterns across departments, income levels, work-life balance ratings by job role, gender distribution, and promotion timelines.
 
